@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdirahbar&show_icons=true&theme=radical)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdirahbar&show_icons=true&theme=react )
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirahbar&layout=compact) -->
+
+<!-- <a href="https://github.com/anuraghazra/MahdiRahbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdirahbar&show_icons=true&theme=react" />
+</a> -->
