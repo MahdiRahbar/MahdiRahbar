@@ -1,4 +1,7 @@
+![](https://komarev.com/ghpvc/?username=mahdirahbar&style=flat-square)
 ### Hi there 👋
+- 🔭 I’m currently working on sequence to sequence problems, using deep learning techniques. 
+- 🌱 I’m currently learning Julia.
 
 <!--
 **MahdiRahbar/MahdiRahbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
