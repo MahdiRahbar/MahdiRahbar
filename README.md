@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mahdirahbar&style=flat-square)
 ### Hi there 👋
-- 🔭 I’m currently working on sequence to sequence problems, using deep learning techniques. 
-- 🌱 I’m currently learning Julia.
+- 🔭 I’m currently working on applications of deep learning and machine learning in protein structure prediction. 
+- 🌱 I’m interested in advanced machine learning techniques and learning new approaches for machine learning framework's optimization. 
 
 <!--
 **MahdiRahbar/MahdiRahbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
