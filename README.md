@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mahdirahbar&style=flat-square)
 ### Hi there 👋
-- 🔭 Machine Learning Engineer at Centene Corporation. 
+- 🔭 Machine Learning Engineer. 
 - 🌱 I’m interested in advanced machine learning techniques applied to natural language processing (NLP). 
 
 <!--
